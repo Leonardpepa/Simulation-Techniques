@@ -1,4 +1,4 @@
-from RNGenerator import RNGererator
+from Random_number_generator.RNGenerator import RNGererator
 import math
 
 def print_n_random_numbers(seed: int, n: int):
